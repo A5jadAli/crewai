@@ -7,4 +7,4 @@ This is one of the most popular framework for implementing multi-agent collabora
 - Tools
 - Crew
 
-Note: Not all the notebooks/code uploaded is created by me. It is just like a resource repository where I have combined some helpful notebooks. You can find the complete documentation of crewai [here](https://docs.crewai.com/).
+*Note:* Not all the notebooks/code uploaded is created by me. It is just like a resource repository where I have combined some helpful notebooks. You can find the complete documentation of crewai [here](https://docs.crewai.com/).
