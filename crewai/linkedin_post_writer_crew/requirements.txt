@@ -1,0 +1,6 @@
+langchain-community 
+langchain crewai 
+langchain-openai 
+langchain-core 
+langchain-google-vertexai 
+langchain_mistralai
